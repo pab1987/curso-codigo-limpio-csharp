@@ -1,0 +1,3 @@
+En l terminal ejecutamos durante el curso los siguientes comandos:
+dotnet build  ---> Para compilar el código
+dotnet run    ---> Para ejecutar el código
